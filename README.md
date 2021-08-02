@@ -2,7 +2,7 @@
 
 https://defi-lab.xyz
 
-Have something you'd like to change on the Defi Lab site, or perhaps you need some help with one of our tools? 
+Have something you'd like to change on the Defi Lab site? Or perhaps you need some help with one of our tools? 
 
 ![](https://media.giphy.com/media/14jQC2AONxNBHq/giphy.gif)
 
